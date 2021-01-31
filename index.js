@@ -45,7 +45,7 @@ function init() {
                 type: 'list',
                 name: 'license',
                 message: 'Select a license type.',
-                choices: ['first', 'second', 'third']
+                choices: ['Apache License 2.0', 'MIT License ', 'GNU GPLv3', 'ISC License']
             },
             {
                 type: 'input',
