@@ -13,8 +13,5 @@ Here is an example of a README.md generated using this application
 ## Walk Through
 ![Walk Through Video](https://github.com/lauramichellepeterson/lauramichellepeterson.github.io-challenge9/raw/main/assets/video/walkthru.mov)
 
-![WalkthruVideo](./assets/video/walkthru.mov)
-
-
 ## Contact Me
 https://github.com/lauramichellepeterson
