@@ -2,15 +2,19 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license == 'Apache License 2.0') {
-        return '[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]'
+        return `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
+        `;
     } else if (license == 'MIT License') {
-        return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]'
+        return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+        `;
     } else if (license == 'GNU GPLv3') {
-        return '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]'
+        return `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]
+        `;
     } else if (license == 'ISC License') {
-        return '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]'
+        return `[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
+        `;
     } else {
-        return ''
+        return '';
     }
 }
 
@@ -23,15 +27,19 @@ function renderLicenseBadge(license) {
 // (https://opensource.org/licenses/ISC)
 function renderLicenseLink(license) {
     if (license == 'Apache License 2.0') {
-        return 'https://choosealicense.com/licenses/apache-2.0/'
+        return `https://choosealicense.com/licenses/apache-2.0/
+        `;
     } else if (license == 'MIT License') {
-        return 'https://choosealicense.com/licenses/mit/'
+        return `https://choosealicense.com/licenses/mit/
+        `;
     } else if (license == 'GNU GPLv3') {
-        return 'https://choosealicense.com/licenses/gpl-3.0/'
+        return `https://choosealicense.com/licenses/gpl-3.0/
+        `;
     } else if (license == 'ISC License') {
-        return 'https://choosealicense.com/licenses/isc'
+        return `https://choosealicense.com/licenses/isc
+        `;
     } else {
-        return ''
+        return '';
     }
 }
 
@@ -40,15 +48,19 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
     if (license == 'Apache License 2.0') {
-        return 'Apache License 2.0'
+        return `Apache License 2.0
+        `;
     } else if (license == 'MIT License') {
-        return 'MIT License'
+        return `MIT License
+        `;
     } else if (license == 'GNU GPLv3') {
-        return 'GNU GPLv3'
+        return `GNU GPLv3
+        `;
     } else if (license == 'ISC License') {
-        return 'ISC License'
+        return `ISC License
+        `;
     } else {
-        return ''
+        return '';
     }
 }
 
