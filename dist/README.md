@@ -1,7 +1,7 @@
-# My Project Title
+# My Project
 
 ## Description 
-The project description would go here
+Project description goes here
 
 ## Table of Contents
 * [Installation](#installation)
@@ -11,10 +11,10 @@ The project description would go here
 * [Questions](#questions)
 
 ## Installation
-Install info would go here
+Install info goes here
 
 ## Usage 
-Usage info would go here
+Usage info goes here
 
 ## License
 Apache License 2.0
@@ -25,12 +25,13 @@ https://choosealicense.com/licenses/apache-2.0/
         
 
 ## Contributing
-Collaborators would go here
+Collaborators go here
 
 ## Tests
-Test info would go here
+Test info goes here
 
 ## Questions
 https://github.com/mygithub
+
 myemail@email.com
 
