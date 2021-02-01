@@ -70,6 +70,7 @@ module.exports = data => {
 
     // console.log(answers.projectTitle);
     return `# ${data.projectTitle}
+${renderLicenseBadge(data.license)}
 
 ## Description 
 ${data.description}
@@ -90,7 +91,6 @@ ${data.usage}
 ## License
 ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
-${renderLicenseBadge(data.license)}
 
 ## Contributing
 ${data.contributing}

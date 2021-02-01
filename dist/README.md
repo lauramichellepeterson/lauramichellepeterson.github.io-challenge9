@@ -1,4 +1,6 @@
-# My Project
+# My Project Title
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+        
 
 ## Description 
 Project description goes here
@@ -20,8 +22,6 @@ Usage info goes here
 Apache License 2.0
         
 https://choosealicense.com/licenses/apache-2.0/
-        
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
         
 
 ## Contributing
