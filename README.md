@@ -10,8 +10,11 @@ An example can be found at that location in this repo.
 Here is an example of a README.md generated using this application
 ![ExampleReadMeScreenshot](./assets/images/ExampleReadMe.png)
 
-## Walkthrough
+## Walk Through
+![Walk Through Video](https://github.com/lauramichellepeterson/lauramichellepeterson.github.io-challenge9/raw/main/assets/video/walkthru.mov)
+
 ![WalkthruVideo](./assets/video/walkthru.mov)
+
 
 ## Contact Me
 https://github.com/lauramichellepeterson
